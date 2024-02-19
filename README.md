@@ -4,9 +4,9 @@ Testing tool
 #### GitBook
 Documenting tool
 # Cloud Platforms
-AWS
-Azure
-Google Cloud
-Vercel
-Netlify
-Heroku
+- AWS
+- Azure
+- Google Cloud
+- Vercel
+- Netlify
+- Heroku
